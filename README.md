@@ -56,7 +56,7 @@ Lottery systems are great because you don’t have to first get a chance to go t
 ## User Stories
 The app implements the following user stories:
 
-**Entrant:**
+### Entrant:
 
 US 01.01.01 As an entrant, I want to join the waiting list for a specific event
 
@@ -92,7 +92,7 @@ US 01.07.01 As an entrant, I want to be identified by my device, so that I don't
 
 US 01.08.01 As an entrant, I want to be warned before joining a waiting list that requires geolocation.
 
-**Organizer:**
+### Organizer:
 
 US 02.01.01 As an organizer I want to create a new event and generate a unique promotional QR code that links to the event description and event poster in the app
 
@@ -132,7 +132,7 @@ US 02.07.02 As an organizer I want to send notifications to all selected entrant
 
 US 02.07.03 As an organizer I want to send a notification to all cancelled entrants
 
-**Admin:**
+### Admin:
 
 US 03.01.01 As an administrator, I want to be able to remove events.
 
@@ -150,7 +150,7 @@ US 03.06.01 As an administrator, I want to be able to browse images.
 
 US 03.07.01 As an administrator I want to be able to browse and remove facilities.
 
-### Additional Details
+## Additional Details
 The app was developed using agile methodologies and scrum practices over the course of two months.
 
 The app was created following MVC design patterns.
