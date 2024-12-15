@@ -1,10 +1,10 @@
 # Event Registration App
 
 This app was developed as part of a team effort with the following contributors:
-- Ayra Qutub *ayraqutub* (me)
 - Ayesha Aamer *aaaamer1*
 - Francis Garcia *fgarcia06*
 - Aditi Padhi *aditipadhii*
+- Ayra Qutub *ayraqutub* (me)
 - Akhil Sunil *llLucidll*
 
 The app is coded in Java with Android Studio.
