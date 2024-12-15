@@ -53,7 +53,7 @@ Lottery systems are great because you don’t have to first get a chance to go t
 
 ![image](https://github.com/user-attachments/assets/c7aaba19-00d5-44d7-a68e-ec97bcea925e)
 
-### User Stories
+## User Stories
 The app implements the following user stories:
 
 **Entrant:**
@@ -148,4 +148,11 @@ US 03.05.01 As an administrator, I want to be able to browse profiles.
 
 US 03.06.01 As an administrator, I want to be able to browse images.
 
-US 03.07.01 As an administrator I want to remove facilities that violate app policy
+US 03.07.01 As an administrator I want to be able to browse and remove facilities.
+
+### Additional Details
+The app was developed using agile methodologies and scrum practices over the course of two months.
+
+The app was created following MVC design patterns.
+
+Automated testing was carried out using the JUnit framework. UI tests were developed using the Roboelectric framework.
